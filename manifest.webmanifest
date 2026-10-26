@@ -1,0 +1,113 @@
+{
+  "id": "./",
+  "name": "Kur'an Rehberi",
+  "short_name": "Kur'an Rehberi",
+  "description": "Namaz vakitleri, kıble pusulası, sesli Kur'an ve meal, dualar, zikirmatik ve animasyonlu abdest-namaz anlatımı.",
+  "lang": "tr",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#04120E",
+  "theme_color": "#04120E",
+  "categories": [
+    "education",
+    "lifestyle",
+    "books"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-monochrome-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "monochrome"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "ekran-1.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Bugün: vakitler ve günün adımları"
+    },
+    {
+      "src": "ekran-2.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Animasyonlu namaz anlatımı"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Kıble",
+      "short_name": "Kıble",
+      "url": "./?tab=qibla",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Sesli Mushaf",
+      "short_name": "Mushaf",
+      "url": "./?tab=surahs",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Zikirmatik",
+      "short_name": "Zikir",
+      "url": "./?tab=prayers",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Diyanet Fetvaları",
+      "short_name": "Fetvalar",
+      "url": "./?tab=fetva",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
