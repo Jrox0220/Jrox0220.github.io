@@ -1,15 +1,15 @@
-[{
-
-      "relation": ["delegate_permission/common.handle_all_urls"],
-
-      "target": {
-
-        "namespace": "android_app",
-
-        "package_name": "io.github.jrox0220.kuranrehberi",
-
-        "sha256_cert_fingerprints": ["23:29:D9:EE:D2:CB:4E:C7:6F:DD:9F:16:0B:BE:BF:F2:B6:9D:1D:5C:B0:11:AC:DF:B5:36:AF:A6:04:97:92:DF"]
-
-      }
-
-    }]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.jrox0220.kuranrehberi",
+      "sha256_cert_fingerprints": [
+        "20:84:7E:06:F0:84:4F:10:1F:DC:D5:E4:9E:DE:94:8D:60:16:92:D6:6A:FC:07:33:6F:9F:41:BE:6D:4A:3D:9F",
+        "23:29:D9:EE:D2:CB:4E:C7:6F:DD:9F:16:0B:BE:BF:F2:B6:9D:1D:5C:B0:11:AC:DF:B5:36:AF:A6:04:97:92:DF"
+      ]
+    }
+  }
+]
